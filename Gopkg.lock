@@ -1,0 +1,13 @@
+memo = "5e127084545fc9edf2f525160259f9df22b0313c35359f1f1fb63ba152dd753b"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/NYTimes/gziphandler"
+  packages = ["."]
+  revision = "22d4470af89e09998fc16b35029df973932df4ae"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/crypto"
+  packages = ["acme","acme/autocert"]
+  revision = "2292f58bd515b6671df42f503e853e6daffe15e5"

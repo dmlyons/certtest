@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM dmlyons/golang-arm:latest
 
 RUN mkdir -p $GOPATH/src/app/certtest
 
